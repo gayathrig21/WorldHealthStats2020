@@ -6,6 +6,8 @@
 
 - But Healthy Life Expectancy (HALE) reveals the true health of a population. It's about both length of life and quality of life. Not just the number of years the average person lives, but the number of years they can expect to live in good health.
 
+![alt text](https://github.com/gayathrig21/WorldHealthStats2020/blob/main/LEvsHALE.png)
+
 
 ## Objective
 
